@@ -7,7 +7,7 @@ const port = 3000;
 
 app.use(express.static('./public'));
 
-const HomeListingImages = "http://13.52.75.41:3001/";
+const HomeListingImages = "http://3.101.16.221:3001/";
 // const SimilarHomes = "http://13.57.228.197/";
 // const MortgageCalculator = "http://13.56.248.150";
 
